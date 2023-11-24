@@ -12,7 +12,7 @@ mas somente os que forem divisiveis por 3 e 5.
     
     Para este caso, apenas copie e cole o código no emulador, o link se encontra na linha abaixo: 
     
-  [Dartpad]([dartpad.dartlang.org](https://dartpad.dev/?))
+  [Dartpad](https://dartpad.dev/?)
 
 - Alguma IDE de sua preferência com suporte ao Dart (Android Studio e VSCode podem ser boas opções).
 
